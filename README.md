@@ -9,3 +9,5 @@ Fire- Green tea- Sea
 https://en.wikipedia.org/wiki/Rayleigh_scattering
 
 Color elements
+
+Matthew:Ｇｒｅｅｎ’ｓ　ｆｕｎｃｔｉｏｎ
