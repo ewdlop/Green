@@ -1,13 +1,31 @@
-# Green
+# Terraforming Mars
 
-R-G-Lime
+This repository contains the code for the Terraforming Mars game. Terraforming Mars is a strategy board game where players compete to transform the Martian landscape into a habitable environment by raising the temperature, creating oceans, and developing plant life.
 
-R-Lime-B
+## Setup and Run Instructions
 
-Fire- Green tea- Sea
+1. Clone the repository:
+   ```
+   git clone https://github.com/ewdlop/Green.git
+   cd Green
+   ```
 
-https://en.wikipedia.org/wiki/Rayleigh_scattering
+2. Create a virtual environment and activate it:
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
 
-Color elements
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
-Matthew:Ｇｒｅｅｎ’ｓ　ｆｕｎｃｔｉｏｎ
+4. Run the game:
+   ```
+   python main.py
+   ```
+
+## More Information
+
+For more information about the Terraforming Mars game, visit the [Terraforming Mars Wikipedia page](https://en.wikipedia.org/wiki/Terraforming_Mars).
